@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/function-thunk",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate a thunk.",
   "license": "Apache-2.0",
   "author": {
@@ -44,7 +44,7 @@
   "devDependencies": {
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/math-base-special-abs": "^0.2.2",
-    "@stdlib/number-float64-base-add": "github:stdlib-js/number-float64-base-add#main",
+    "@stdlib/number-float64-base-add": "^0.1.0",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/utils-decorate-after": "^0.2.2",
     "@stdlib/utils-function-name": "^0.2.2",
